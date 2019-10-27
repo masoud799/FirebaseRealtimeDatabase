@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "161779296013",
+    "firebase_url": "https://animatoon-c47d6.firebaseio.com",
+    "project_id": "animatoon-c47d6",
+    "storage_bucket": "animatoon-c47d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161779296013:android:70cb6b9ccebb9000d0f244",
+        "android_client_info": {
+          "package_name": "com.codewithshembil.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161779296013-uv7uv2ho9ft5g7vfiu8veis0g3implmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr1taHDx-3UebJWDsjG5xpv39l2CHTzuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161779296013-uv7uv2ho9ft5g7vfiu8veis0g3implmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
